@@ -1,0 +1,2 @@
+# newpc_automation
+bash
